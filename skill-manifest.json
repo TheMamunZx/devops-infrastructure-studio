@@ -1,0 +1,25 @@
+{
+  "repository": "devops-infrastructure-studio",
+  "title": "DevOps & Infrastructure Studio",
+  "master_skill": "devops-infrastructure-studio",
+  "discoverable_skills": 1,
+  "internal_modules": [
+    "devops-engineer.md",
+    "docker-engineer.md",
+    "cloud-engineer.md",
+    "cicd-engineer.md",
+    "distributed-systems-engineer.md",
+    "performance-engineer.md",
+    "human-centered-product-design.md",
+    "design-quality-critic.md",
+    "product-experience-engineer.md",
+    "INDEX.md"
+  ],
+  "module_count": 9,
+  "human_centered_modules": [
+    "human-centered-product-design",
+    "design-quality-critic",
+    "product-experience-engineer"
+  ],
+  "note": "Internal modules are reference playbooks, not separate discoverable skills."
+}
